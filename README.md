@@ -1,4 +1,4 @@
-### Soy un vato equis que de repente desarrolla software gratis
+### Ingeniero en Desarrollo de Software, visita mi sitio en https://brunovelazquez.com/
 
 <!--
 **BrunoVelazquez/brunovelazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
