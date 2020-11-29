@@ -1,6 +1,10 @@
 # Software Developent Engineer
 
+This is my github profile, you can see all my open source projects and stuff that i post in my website
+
 ## Visit my blog https://brunovelazquez.com/
+
+In this website you can see projects that i working on
 
 ### Javascript developer in:
 
